@@ -1,3 +1,3 @@
 # COVID-19-Predictions
 
-Covid-19 data from John Hopkins
+Data from Johns Hopkins COVID-19
