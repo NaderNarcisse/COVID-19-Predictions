@@ -4,4 +4,4 @@ Dataset from Johns Hopkins COVID-19
 
 Using 10, 20, 30, 40 and 50 days observations for predictions.
 
-Models used : 
+## Models used : 
